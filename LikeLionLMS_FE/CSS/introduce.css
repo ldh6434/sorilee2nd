@@ -1,0 +1,149 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+.notosanskr * {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+@font-face {
+    font-family: 'Gmarket Sans';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.window1 {
+    background-image: url("../img/background.jpg");
+    background-repeat : no-repeat;
+    background-size: cover;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+}
+.intro {
+    position: absolute;
+    top: 50%;
+    height: 240px;
+    margin-top: -200px;
+}
+.intro_1 {
+    font-family: "Gmarket Sans";
+    font-weight: 600;
+    font-size: 72px;
+    text-align: center;
+}
+.intro_2 {
+    font-family: "Noto Sans KR";
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+.window2 {
+    background-image: url("../img/backgound1.jpg");
+    background-repeat : no-repeat;
+    background-size: auto;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+.serve {
+    max-width: 500px;
+    margin-left: 350px;
+    -webkit-flex: 1;
+    flex: 1
+}
+.myself {
+    -webkit-flex: 1;
+    flex: 1;
+    vertical-align: middle;
+}
+.myself1 {
+    margin-top: 50%;
+    font-family: "Gmarket Sans";
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 1.5;
+    text-align: center;
+}
+.myself2 {
+    font-family: "Gmarket Sans";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #fff;
+    text-align: center;
+}
+.blog {
+        background-color: lightblue;
+        color: #ffffff;
+        font-weight: normal;
+        padding: 1px 3px;
+        text-decoration: none;
+    }
+
+.blog:hover {
+    color: hotpink;
+}
+/* Window 3 */
+.window3 {
+   background-image: url("../img/Background2.jpg");
+}
+.window3h1 {
+    padding-top: 120px;
+    font-family: "Gmarket Sans";
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 1.5;
+    text-align: center;
+}
+.container {
+    display: -webkit-flex;
+    display: flex;
+    margin-top: 150px;
+}
+.hobby {
+    -webkit-flex: 1;
+    flex: 1;
+    text-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+.hobby_img {
+    max-width: 300px;
+    border-radius: 100px;
+    display : inline;
+}
+.hobby_text {
+    margin-top: 30px;
+    font-family: "Gmarket Sans";
+    font-weight: bold;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 1.5;
+}
+.window5 {
+    background: #B993D6;
+    background: -webkit-linear-gradient(to right, #8CA6DB, #B993D6);
+    background: linear-gradient(to right, #8CA6DB, #B993D6);
+}
+.window5_1 {
+    padding-top: 200px;
+    font-family: "Gmarket Sans";
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 1.5;
+    color: black;
+    text-align: center;
+}
+.imglist {
+    margin-top: 250px;
+    text-align: center;
+}
+.insta{
+    width:3%;
+    height:5%;
+}

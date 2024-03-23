@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e574d6e8-58ee-48be-b8a9-c126cf53ec12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/CSS/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/CSS/introduce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/CSS/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/LikeLionLMS_FE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/Background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/actor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/backgound1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/backpack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/book-btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/everton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/insta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/kau_likelion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/sorilee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/img/window2_serve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/templates/layout/introduce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LikeLionLMS_FE/templates/layout/navbar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2e3hCC9Pf0p8tRbMhHlqkymOiF1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/a0000/IdeaProjects/LikeLionLMS_FE/__MACOSX/LikeLionLMS_FE/CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e574d6e8-58ee-48be-b8a9-c126cf53ec12" name="Changes" comment="" />
+      <created>1711139039054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711139039054</updated>
+      <workItem from="1711139040514" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
